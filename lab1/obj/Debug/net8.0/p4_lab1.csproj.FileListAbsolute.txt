@@ -1,0 +1,17 @@
+F:\Projekty_cs\p4_lab1\bin\Debug\net8.0\p4_lab1.exe
+F:\Projekty_cs\p4_lab1\bin\Debug\net8.0\p4_lab1.deps.json
+F:\Projekty_cs\p4_lab1\bin\Debug\net8.0\p4_lab1.runtimeconfig.json
+F:\Projekty_cs\p4_lab1\bin\Debug\net8.0\p4_lab1.dll
+F:\Projekty_cs\p4_lab1\bin\Debug\net8.0\p4_lab1.pdb
+F:\Projekty_cs\p4_lab1\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Projekty_cs\p4_lab1\obj\Debug\net8.0\p4_lab1.csproj.AssemblyReference.cache
+F:\Projekty_cs\p4_lab1\obj\Debug\net8.0\p4_lab1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projekty_cs\p4_lab1\obj\Debug\net8.0\p4_lab1.AssemblyInfoInputs.cache
+F:\Projekty_cs\p4_lab1\obj\Debug\net8.0\p4_lab1.AssemblyInfo.cs
+F:\Projekty_cs\p4_lab1\obj\Debug\net8.0\p4_lab1.csproj.CoreCompileInputs.cache
+F:\Projekty_cs\p4_lab1\obj\Debug\net8.0\p4_lab1.csproj.Up2Date
+F:\Projekty_cs\p4_lab1\obj\Debug\net8.0\p4_lab1.dll
+F:\Projekty_cs\p4_lab1\obj\Debug\net8.0\refint\p4_lab1.dll
+F:\Projekty_cs\p4_lab1\obj\Debug\net8.0\p4_lab1.pdb
+F:\Projekty_cs\p4_lab1\obj\Debug\net8.0\p4_lab1.genruntimeconfig.cache
+F:\Projekty_cs\p4_lab1\obj\Debug\net8.0\ref\p4_lab1.dll

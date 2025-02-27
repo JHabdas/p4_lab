@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5rLbkxrRpw=",
+  "success": true,
+  "projectFilePath": "F:\\Projekty_cs\\p4_lab1\\p4_lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kubst\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
